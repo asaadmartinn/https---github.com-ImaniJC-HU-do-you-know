@@ -6,7 +6,7 @@ const Footer = () => {
           marginBottom: 10,
         }}
       >
-        Made with ♥ by{" "}
+        Made with ♥ by{"Asaad Martin,Imani Coleman,Leandra Mcphie,Mariah Holloway,Micheal Obi "}
         <a
           href="https://www.youtube.com/roadsidecoder"
           style={{ cursor: "pointer" }}
